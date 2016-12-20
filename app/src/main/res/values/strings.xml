@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Test SQLite</string>
+    <string name="text_id">Id</string>
+    <string name="text_name_firs">First Name</string>
+    <string name="text_name_sure">Sure Name</string>
+    <string name="text_marks">Marks</string>
+    <string name="text_save">Save</string>
+    <string name="text_students">Students</string>
+    <string name="text_update">Update</string>
+    <string name="delete">Delete</string>
+</resources>
